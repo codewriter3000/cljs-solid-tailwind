@@ -6,3 +6,6 @@ node_modules
 .shadow-cljs
 *.iml
 public/js/*
+public/css/*
+package-lock.json
+yarn.lock
